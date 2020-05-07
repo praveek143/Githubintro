@@ -5,3 +5,5 @@ cherries
 carrots
 bananas
 Cereals
+cucumbers
+raddishes
