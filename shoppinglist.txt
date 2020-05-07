@@ -4,3 +4,4 @@ oranges
 cherries
 carrots
 bananas
+Cereals
